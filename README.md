@@ -13,7 +13,7 @@
 * download and install [Typora](https://www.typora.io/#windows) 
     * Or your favorite Markdown editor/viewer
 * start a new feature 
-* Add your name to this readme.md file
+* Add your name to this readme.md file (Melanie Roy-Plommer)
 * complete the feature and push your commit. 
 * push your changes  (make sure you push the **development** branch not the master branch) 
 * merge the changes on your development branch into your **master** branch
